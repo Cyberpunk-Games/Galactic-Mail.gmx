@@ -2,7 +2,7 @@
 
 >Example of a simple game updated from [The Game Maker's Apprentice](http://www.apress.com/9781590596159) chapter3 source code to work in Gamemaker:Studio. 
 
-![screenshot](https://raw.githubusercontent.com/glls/.../screenshot.png)
+![screenshot](https://raw.githubusercontent.com/glls/Galactic-Mail.gmx/master/screenshot.png)
 
 
 You play an intergalactic mail carrier who must deliver mail to a number of inhabited
